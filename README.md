@@ -1,5 +1,5 @@
 # dll-injector
 
-DLL injector I made through reading the windows api that uses the well known CreateRemoteThreadMethod() method.
+DLL injector I made through reading the windows api that uses the well known CreateRemoteThread() method.
 
 `> Inject.exe <process_name> <dll_path>`
